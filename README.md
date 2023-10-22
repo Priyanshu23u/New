@@ -1,3 +1,4 @@
 # New
 This is my first repository
-Practice
+Author - Priyanshu Upadhyay
+
